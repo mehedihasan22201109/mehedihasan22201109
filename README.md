@@ -1,131 +1,113 @@
-<div align="center">
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="YOUR_CUSTOM_BANNER_LINK" width="100%">
+</p>
 
-# Hi 👋 I'm Mehedi Hasan
+<h1 align="center">👋 Hi, I'm Mehedi Hasan</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Machine+Learning+Engineer;CSE+Student+at+UAP;Python+%7C+C%2B%2B+%7C+Django;AI+Researcher+and+Developer" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Machine+Learning+Engineer;CSE+Student+at+UAP;Python+%7C+C%2B%2B+%7C+Django;AI+Researcher+%26+Developer" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1mN2NjN2FvN2Y1M2FvN3Q0M3JwYjA2YTZlN3V3c2hpa2x6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+# 🚀 About Me
 
-## 👨‍💻 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 B.Sc. in Computer Science & Engineering  
-🏫 University of Asia Pacific (UAP)
+🎓 CSE Student @ University of Asia Pacific
 
 🤖 Aspiring Machine Learning Engineer
 
-🌱 Currently Learning:
-- Machine Learning
-- Deep Learning
-- Django
-- Computer Vision
+🌾 AI for Agriculture Researcher
 
-🔬 Research Focus:
-- Explainable AI
-- Multimodal Learning
-- Crop Yield Prediction
-- Plant Vitality Assessment
+💻 Competitive Programmer
+
+🔥 Backend & Django Developer
+
+📚 Learning Deep Learning & Computer Vision
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,django,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,django,mysql" />
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mehedihasan22201109&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan22201109&layout=compact&theme=tokyonight"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mehedihasan22201109&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan22201109&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=mehedihasan22201109&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehedihasan22201109&theme=algolia&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=mehedihasan22201109&theme=algolia"/>
 </p>
 
 ---
 
-## 🌾 Featured Research Project
+# 🌾 Featured Research
 
-### Explainable Multimodal Deep Learning System for Plant Vitality Assessment and Yield Forecasting
+<img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-✅ Soil Quality Index (SQI)
+### Explainable Multimodal Deep Learning System
+
+✅ Soil Quality Index
+
+✅ Plant Vitality Assessment
+
+✅ Crop Yield Forecasting
+
+✅ SHAP / LIME / Grad-CAM
 
 ✅ Climate Data Fusion
 
 ✅ MobileNetV2
 
-✅ SHAP
-
-✅ LIME
-
-✅ Grad-CAM
-
-✅ Yield Forecasting
-
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mehedi-hasan-95876a370">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/mehedihasan22201109">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://mehedi-ai-opus.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mehedihasan22201109&style=for-the-badge&color=blue"/>
-
+<img src="https://komarev.com/ghpvc/?username=mehedihasan22201109&style=for-the-badge"/>
 </p>
