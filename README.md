@@ -113,29 +113,7 @@
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mehedihasan22201109&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan22201109&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mehedihasan22201109&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Contribution Activity
 
