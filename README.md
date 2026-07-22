@@ -150,12 +150,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan2
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehedihasan22201109&theme=algolia&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mehedihasan22201109&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
 
 # 🌾 Featured Research Project
 
