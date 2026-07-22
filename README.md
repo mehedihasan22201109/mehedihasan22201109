@@ -147,47 +147,102 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan2
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedihasan22201109&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Competitive-Programmer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Researcher-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Django-Developer-green?style=for-the-badge&logo=django"/>
+
 </p>
 
-# 🌾 Featured Research Project
+<div align="center">
 
-<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+### 🚀 Passionate About Building AI Solutions
 
-## Explainable Multimodal Deep Learning System for Plant Vitality Assessment and Yield Forecasting
+⭐ Machine Learning Enthusiast
 
-### Project Highlights
+💻 Competitive Programmer
 
-✅ Soil Quality Index (SQI)
+🌾 AI for Agriculture Researcher
 
-✅ Plant Vitality Assessment
+📚 Continuous Learner & Problem Solver
 
-✅ Crop Yield Forecasting
-
-✅ Climate Data Fusion
-
-✅ MobileNetV2 Feature Extraction
-
-✅ Explainable AI (SHAP, LIME, Grad-CAM)
-
-✅ Bangladesh Agriculture Research
-
-<br>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🌾 Featured Research Project
 
-| Project | Description |
-|----------|-------------|
-| 🌾 Plant Vitality Assessment | AI-based crop health & yield prediction |
-| 🌐 CrowdFunding System | Django-based crowdfunding platform |
-| 🤖 Machine Learning Models | Classification & Regression Projects |
-| 💻 Codeforces Practice | Competitive Programming Solutions |
-| 📊 Data Science Projects | Data Analysis & Visualization |
+<p align="center">
+
+<img src="https://img.shields.io/badge/Research-AI%20for%20Agriculture-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Explainable-AI-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep-Learning-FF6D00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multimodal-Learning-7B1FA2?style=for-the-badge"/>
+
+</p>
+
+<div align="center">
+
+# 🧠 Explainable Multimodal Deep Learning System
+
+### Plant Vitality Assessment & Yield Forecasting in Bangladesh
+
+</div>
+
+| 🔬 Research Component | 📌 Description |
+|----------------------|----------------|
+| 🌱 Soil Quality Index | PCA-Based SQI Analysis |
+| 🌾 Plant Vitality Assessment | Crop Health Classification |
+| 📈 Yield Forecasting | Regression-Based Prediction |
+| 🌦 Climate Data Fusion | Weather + Soil Integration |
+| 🛰 Satellite Imagery | Multimodal Feature Extraction |
+| 🤖 Deep Learning | MobileNetV2 Architecture |
+| 💡 Explainable AI | SHAP, LIME, Grad-CAM |
+
+---
+
+## 🚀 Key Highlights
+
+✅ 18,000+ Climate Data Records
+
+✅ 5,000+ Real-Time Soil Sensor Samples
+
+✅ 4,384 Preprocessed Training Samples
+
+✅ Explainable AI Integration
+
+✅ MobileNetV2-Based Feature Extraction
+
+✅ Climate + Soil Data Fusion
+
+✅ Smart Agriculture Decision Support
+
+✅ Bangladesh-Focused Agricultural Research
+
+---
+
+<div align="center">
+
+### 🌟 Research Goal
+
+"Using Explainable Artificial Intelligence to improve crop monitoring,
+plant vitality assessment, and yield prediction for sustainable agriculture."
+
+</div>
 
 ---
 
