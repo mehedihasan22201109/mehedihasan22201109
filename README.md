@@ -81,38 +81,76 @@
 
 ---
 
-# 🛠 Tech Stack
 
-<p align="center">
+# 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<div align="center">
 
-<br><br>
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,django,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
 
-<br><br>
+**C • C++ • Python • Java**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+---
 
-</p>
+### 🌐 Web Development
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,django"/>
+
+**HTML5 • CSS3 • Django**
+
+---
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+**MySQL**
+
+---
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+**Git • GitHub • VS Code**
+
+---
+
+### 🤖 AI & Data Science
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B1FA2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Computer%20Vision-00897B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data%20Science-1565C0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Backend%20Development-212121?style=for-the-badge"/>
+<br><br>
 
-</p>
+**Machine Learning • Deep Learning • Computer Vision • Data Science**
 
 ---
 
+### 🚀 Currently Learning
+
+<img src="https://img.shields.io/badge/SHAP-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LIME-43A047?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GradCAM-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Explainable%20AI-E53935?style=for-the-badge"/>
+
+<br><br>
+
+**Explainable AI (SHAP, LIME, Grad-CAM)**
+
+</div>
+
+---
 
 
 # 📈 Contribution Activity
