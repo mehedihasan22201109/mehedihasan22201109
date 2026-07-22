@@ -1,20 +1,49 @@
-<!-- ========================= BANNER ========================= -->
+<!-- ====================== PREMIUM HEADER ====================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=280&section=header&text=Mehedi%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer%20|%20CSE%20Student%20@%20UAP&descAlignY=60"/>
+
 </p>
 
-<!-- ========================= TYPING ========================= -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Mehedi+Hasan;Aspiring+Machine+Learning+Engineer;AI+Researcher+%7C+Backend+Developer;CSE+Student+at+University+of+Asia+Pacific;Welcome+to+My+GitHub+Profile" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Mehedi+Hasan;Aspiring+Machine+Learning+Engineer;AI+Researcher+%7C+Backend+Developer;Python+%7C+C%2B%2B+%7C+Django;Welcome+to+My+GitHub+Profile" />
+
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedihasan22201109&label=Profile+Views&style=for-the-badge&color=0e75b6" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-bb7e-4b2f5f7f7e7f.gif" width="100%">
+<p align="center">
+
+<a href="https://github.com/mehedihasan22201109">
+<img src="https://img.shields.io/github/followers/mehedihasan22201109?label=Followers&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mehedihasan22201109&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+
+<img width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+</p>
+
+---
+
 
 <!-- ========================= ABOUT ME ========================= -->
 
