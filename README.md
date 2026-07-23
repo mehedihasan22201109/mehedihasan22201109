@@ -225,7 +225,7 @@
 | 🌾 Plant Vitality Assessment | Crop Health Classification |
 | 📈 Yield Forecasting | Regression-Based Prediction |
 | 🌦 Climate Data Fusion | Weather + Soil Integration |
-| 🛰 Satellite Imagery | Multimodal Feature Extraction |
+| 🛰 Drone Imagery | Multimodal Feature Extraction |
 | 🤖 Deep Learning | MobileNetV2 Architecture |
 | 💡 Explainable AI | SHAP, LIME, Grad-CAM |
 
